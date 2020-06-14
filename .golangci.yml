@@ -1,0 +1,4 @@
+# golangci-lint configuration options
+# we use all default settings, unless where overidden below
+linters:
+  enable-all: true
